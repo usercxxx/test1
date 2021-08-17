@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+    <file url="file://$PROJECT_DIR$/src/com/google/controller/CheckUser.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/google/controller/Login.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/google/dao/impi/VipDaoIpml.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/text8_5/TestMain.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/text8_5/Text.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/text8_5/UserMain.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/text8_5/dao/Impl/Testdaoimpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/text8_5/util/Login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/demo8_2/Homework.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/demo8_2/TestNews.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
